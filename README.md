@@ -10,7 +10,7 @@ A sleek, responsive login/sign-up form built with **HTML**, **CSS**, and **JavaS
 ![Login Screenshot](screenshots/signin.PNG)
 *Login screen view*
 
-![Sign Up Screenshot](screenshots/signup.png)
+![Sign Up Screenshot](screenshots/signup.PNG)
 *Sign up screen view*
 
 ---
